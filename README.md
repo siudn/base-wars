@@ -31,7 +31,5 @@
 2. On the redirected page, please click the download button in the right corner.
 3. **HOORRAAAYYYYY!! ENJOY!!!!!**
    
-* <a id="raw-url" href="https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars%20Win/Base%20Wars.exe">Windows</a>
-* <a id="raw-url" href="https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars.app/Contents/MacOS/Base%20Wars">macOS</a>
-
+<iframe frameborder="0" src="https://itch.io/embed/2371862" width="552" height="167"><a href="https://wildwolf03.itch.io/base-wars">Base-Wars by WildWolf03</a></iframe>
 This project was created in a timely manner in a hackathon hosted by NJIT.
