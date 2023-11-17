@@ -24,6 +24,11 @@
 
 **BE AWARE, IT IS NOT A NOLAN FILM WHERE YOU COME BACK HOME TO THE FUTURE.**
 
+SNEAK PEAK: 
+-----------------
+
+![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
+
 ###### If you are ready to get lost in the space download base-wars according to your system:
 
 ###### **Instructions:**
