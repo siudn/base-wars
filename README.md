@@ -9,18 +9,18 @@
 * Base-wars utilizes programming logic similar to the picture (Retro 2 players space game present on Atari - **Space Race**)
 * Similarly, the game requires two players
 
-**OBJECTIVE: Reach the base first**
+### **OBJECTIVE: Reach the base first**
 ---------------------------------------
 1. Two players are supposed to race to the top of screen.
 2. As they move to the top, the camera angle also moves with them.
 3. Both players must be in the vicinity of each other for the camera to not get lost in the space.
 
-**IT IS NOT EASY AS YOU THINK** Do you think you can save yourself from the unruly behavior of space?
+#### **IT IS NOT EASY AS YOU THINK** Do you think you can save yourself from the unruly behavior of space?
 -----------------
 * The true winner is the one that can surpass the asteroids and reach the base first.
 * The asteroids are put in the path of the players randomly.
 
-**IT IS NOT THAT SIMPLE**
+#### **IT IS NOT THAT SIMPLE**
 ----------------------------------------
 * Get hit by the asteroids three times, and you are lost in the space forever.
 
@@ -28,7 +28,7 @@
 
 ###### If you are ready to get lost in the space download base-wars according to your system:
 
-##### Instructions:
+###### **Instructions:**
 1. Click the link according to your system.
 2. On the redirected page, please click the download button in the right corner.
 3. **HOORRAAAYYYYY!! ENJOY!!!!!**
