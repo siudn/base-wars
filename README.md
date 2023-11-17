@@ -1,14 +1,14 @@
 # base-wars
 PvP Asteroid-dodging game built with Unity.
+[Download Page (itch.io)](https://cshadx.itch.io/base-wars)
 
 ![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
 
 ### **OBJECTIVE: Reach the base first**
 ---------------------------------------
-1. Two players are supposed to race to the top of screen.
-2. As they move to the top, the camera angle also moves with them.
-3. Both players must be in the vicinity of each other for one to not get lost in the space.
-4. Reach the base first by avoiding what awaits.
+1. Two players race to the top.
+2. As they move the camera follows them.
+3. Reach the base first by avoiding what awaits.
 
 #### **IT IS NOT EASY AS YOU THINK** Do you think you can save yourself from the unruly behavior of space?
 -----------------
@@ -29,6 +29,6 @@ PvP Asteroid-dodging game built with Unity.
 3. Once redirected, click on the system of your preference.
 5. **HOORRAAAYYYYY!! ENJOY!!!!!**
 
-[DOWNLOAD](https://wildwolf03.itch.io/base-wars)
+[DOWNLOAD](https://cshadx.itch.io/base-wars)
 
 This project was created for a 24-hour hackathon hosted by NJIT.
