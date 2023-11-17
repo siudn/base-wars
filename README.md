@@ -1,6 +1,8 @@
 # base-wars
 1v1 Asteroid Game that is built using Unity Game Engine.
 
+![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
+
 ### **OBJECTIVE: Reach the base first**
 ---------------------------------------
 1. Two players are supposed to race to the top of screen.
@@ -18,11 +20,6 @@
 * Get hit by the asteroids three times, and you are lost in the space forever.
 
 **BEWARE, IT IS NOT A NOLAN FILM WHERE YOU COME BACK HOME TO THE FUTURE.**
-
-SNEAK PEEK: 
------------------
-
-![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
 
 ###### If you are ready to get lost in space download base-wars according to your system:
 
