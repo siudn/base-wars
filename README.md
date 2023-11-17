@@ -32,10 +32,7 @@
 3. **HOORRAAAYYYYY!! ENJOY!!!!!**
 
 <div>
-   <iframe frameborder="0" 
-      src="https://itch.io/embed/2371862" 
-      width="552" 
-      height="167">
+   <iframe frameborder="0" src="https://itch.io/embed/2371862" width="552" height="167">
       <a href="https://wildwolf03.itch.io/base-wars">Base-Wars by WildWolf03</a>
    </iframe>
 </div>
