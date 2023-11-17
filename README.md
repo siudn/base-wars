@@ -30,6 +30,13 @@
 1. Click the link according to your system.
 2. On the redirected page, please click the download button in the right corner.
 3. **HOORRAAAYYYYY!! ENJOY!!!!!**
-   
-<iframe frameborder="0" src="https://itch.io/embed/2371862" width="552" height="167"><a href="https://wildwolf03.itch.io/base-wars">Base-Wars by WildWolf03</a></iframe>
+
+<div>
+   <iframe frameborder="0" 
+      src="https://itch.io/embed/2371862" 
+      width="552" 
+      height="167">
+      <a href="https://wildwolf03.itch.io/base-wars">Base-Wars by WildWolf03</a>
+   </iframe>
+</div>
 This project was created in a timely manner in a hackathon hosted by NJIT.
