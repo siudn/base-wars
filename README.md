@@ -14,10 +14,10 @@
 
 **IT IS NOT EASY AS YOU THINK** Do you think you can save yourself from the unruly behavior of space?
 -----------------
-4. The true winner is the one that can surpass the asteroids and reach the base first.
+* The true winner is the one that can surpass the asteroids and reach the base first.
 
 **IT IS NOT THAT SIMPLE**
 ----------------------------------------
-5. Get hit by the asteroids three times, and you are lost in the space forever.
+* Get hit by the asteroids three times, and you are lost in the space forever.
 
 **BE AWARE, IT IS NOT A NOLAN FILM WHERE YOU COME BACK HOME TO THE FUTURE.**
