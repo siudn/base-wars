@@ -1,5 +1,5 @@
 # base-wars
-1v1 Asteroid Game that is built using Unity Game Engine.
+PvP Asteroid-dodging game built with Unity.
 
 ![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
 
