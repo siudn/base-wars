@@ -1,11 +1,6 @@
 # base-wars
 1v1 Asteroid Game that is built using Unity Game Engine.
 
-* It is a 2D Game that is meant to replicate a retro arcade game
--------------------
-![alt text](https://learnlearn.uk/scratch/wp-content/uploads/sites/7/2021/11/Space-race-thumbnail.png)
-----------------
-
 ### **OBJECTIVE: Reach the base first**
 ---------------------------------------
 1. Two players are supposed to race to the top of screen.
@@ -22,14 +17,14 @@
 ----------------------------------------
 * Get hit by the asteroids three times, and you are lost in the space forever.
 
-**BE AWARE, IT IS NOT A NOLAN FILM WHERE YOU COME BACK HOME TO THE FUTURE.**
+**BEWARE, IT IS NOT A NOLAN FILM WHERE YOU COME BACK HOME TO THE FUTURE.**
 
-SNEAK PEAK: 
+SNEAK PEEK: 
 -----------------
 
 ![BASE-WARS](https://github.com/siudn/base-wars/assets/70178791/3dba69a9-a50a-43d4-8551-3265107cf2d4)
 
-###### If you are ready to get lost in the space download base-wars according to your system:
+###### If you are ready to get lost in space download base-wars according to your system:
 
 ###### **Instructions:**
 1. Click "Download" which will take you to a download page.
@@ -37,6 +32,6 @@ SNEAK PEAK:
 3. Once redirected, click on the system of your preference.
 5. **HOORRAAAYYYYY!! ENJOY!!!!!**
 
-[DOWNLOAD](https://itch.io/embed/2371862)
+[DOWNLOAD](https://wildwolf03.itch.io/base-wars)
 
-This project was created in a timely manner in a hackathon hosted by NJIT.
+This project was created for a 24-hour hackathon hosted by NJIT.
