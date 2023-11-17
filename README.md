@@ -2,6 +2,7 @@
 1v1 Asteroid Game that is built using Unity Game Engine.
 
 * It is a 2D Game that is meant to replicate a retro arcade game
+-------------------
 ![alt text](https://learnlearn.uk/scratch/wp-content/uploads/sites/7/2021/11/Space-race-thumbnail.png)
 ----------------
 
