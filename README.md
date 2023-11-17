@@ -33,7 +33,7 @@
 2. On the redirected page, please click the download button in the right corner.
 3. **HOORRAAAYYYYY!! ENJOY!!!!!**
    
-<a id="raw-url" href="https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars%20Win/Base%20Wars.exe">Windows</a>
-<a id="raw-url" href="[Base Wars/Base Wars.app/Contents/MacOS/Base Wars](https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars.app/Contents/MacOS/Base%20Wars)https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars.app/Contents/MacOS/Base%20Wars">macOS</a>
+* <a id="raw-url" href="https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars%20Win/Base%20Wars.exe">Windows</a>
+* <a id="raw-url" href="https://github.com/siudn/base-wars/blob/main/Base%20Wars/Base%20Wars.app/Contents/MacOS/Base%20Wars">macOS</a>
 
 This project was created in a timely manner in a hackathon hosted by NJIT.
